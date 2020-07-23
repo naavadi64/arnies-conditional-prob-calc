@@ -14,6 +14,6 @@ NOTE: There's probably a way to run it locally but idk
 
 ## License
 
-Licensed under [Unlicense](LICENSE)
+Licensed under Unlicense
 <br><br><br><br>
 *citation needed
